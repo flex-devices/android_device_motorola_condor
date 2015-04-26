@@ -1,0 +1,17 @@
+[
+  {
+    "remote": "cm",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+  },
+  {
+    "remote": "cm",
+    "repository": "android_kernel_motorola_msm8610",
+    "target_path": "kernel/motorola/msm8610",
+  },
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_motorola",
+    "target_path": "vendor/motorola"
+  }
+]
